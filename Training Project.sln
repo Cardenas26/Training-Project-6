@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{471EC4BB-E47E-4229-A789-D1F5F83B52D4}") = "Training Project", "Training Project\Training Project.mcpproj", "{66FE5024-A288-4855-A968-07EA07844A36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|MCP = Debug|MCP
+		Release|MCP = Release|MCP
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66FE5024-A288-4855-A968-07EA07844A36}.Debug|MCP.ActiveCfg = Debug|MCP
+		{66FE5024-A288-4855-A968-07EA07844A36}.Debug|MCP.Build.0 = Debug|MCP
+		{66FE5024-A288-4855-A968-07EA07844A36}.Release|MCP.ActiveCfg = Release|MCP
+		{66FE5024-A288-4855-A968-07EA07844A36}.Release|MCP.Build.0 = Release|MCP
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CF66D67-1388-4FB3-9415-B7B68723BCD5}
+	EndGlobalSection
+EndGlobal
